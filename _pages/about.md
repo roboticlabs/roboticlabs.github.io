@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Automation</a>. Robotics. ROS. Embeded. IoTs. Etc.
 
 profile:
   align: right
