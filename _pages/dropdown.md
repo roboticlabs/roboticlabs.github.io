@@ -5,8 +5,8 @@ nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: about
-    permalink: /
+  - title: products
+    permalink: /publications/
   - title: divider
   - title: projects
     permalink: /projects/
