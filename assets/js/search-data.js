@@ -10,11 +10,11 @@ ninja.data = [{
       window.location.href = "/";
     },
   },{id: "nav-blog",
-          title: "blog",
+          title: "Blog",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/Blog/index.html";
+            window.location.href = "/blog/";
           },
         },{id: "nav-products",
           title: "Products",
