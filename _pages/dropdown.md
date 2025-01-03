@@ -1,6 +1,6 @@
 ---
 layout: page
-title: menus
+title: Menus
 nav: true
 nav_order: 8
 dropdown: true
