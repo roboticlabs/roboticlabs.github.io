@@ -20,6 +20,6 @@ social: true # includes social icons at the bottom of the page
 
 We are a leading technology team based in Auckland and expert in developing world class industrial robot solutions, robot products and IoT applications. You can find more about us on our [Youtube](https://www.youtube.com/@RobotLabs).   
 
-Our research areas mainly focus on industrial robot, ROS, FOC control, IoT and embedded system development. We believe everyone can make their dream robot. There are carefully selected hardware for robot & IoT developers and enthusiasts in our store. [Product page](/publications/).
+Our research areas mainly focus on industrial robot, embedded system, FOC control, IoT, ROS and mobile robot. We believe everyone can make their dream robot. There are carefully selected hardware for robot & IoT developers and enthusiasts in our store. [Product page](/publications/).
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
