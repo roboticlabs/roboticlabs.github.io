@@ -4,7 +4,7 @@ title: Install ROS2 Jazzy
 date: 2025-01-01 10:11:00-0400
 description: How to install ROS2 Jazzy step by step
 tags: ROS toc sidebar
-categories: sample-posts
+categories: posts
 giscus_comments: true
 related_posts: true
 toc:
