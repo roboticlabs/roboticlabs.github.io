@@ -6,9 +6,9 @@ description: How to install ROS2 Jazzy step by step
 tags: ROS toc sidebar
 categories: sample-posts
 giscus_comments: true
-related_posts: false
+related_posts: true
 toc:
-  sidebar: left
+  sidebar: right
 ---
 
 # 1.1 Install ROS 2 Jazzy
