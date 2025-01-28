@@ -58,20 +58,20 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-table-of-contents-on-a-sidebar",
+            },{id: "post-install-ros2-jazzy",
       
-        title: "a post with table of contents on a sidebar",
+        title: "Install ROS2 Jazzy",
       
-      description: "an example of a blog post with table of contents on a sidebar",
+      description: "How to install ROS2 Jazzy step by step",
       section: "Posts",
       handler: () => {
         
           window.location.href = "/blog/2025/Install-ROS2-Jazzy/";
         
       },
-    },{id: "post-a-post-with-image-galleries",
+    },{id: "post-a-post-with-image-galleries-test",
       
-        title: "a post with image galleries",
+        title: "a post with image galleries test",
       
       description: "this is what included image galleries could look like",
       section: "Posts",
