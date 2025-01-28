@@ -1,9 +1,9 @@
 ---
 layout: post
-title: a post with table of contents on a sidebar
+title: Install ROS2 Jazzy
 date: 2025-01-01 10:11:00-0400
-description: an example of a blog post with table of contents on a sidebar
-tags: formatting toc sidebar
+description: How to install ROS2 Jazzy step by step
+tags: ROS toc sidebar
 categories: sample-posts
 giscus_comments: true
 related_posts: false
