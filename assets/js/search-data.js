@@ -69,17 +69,6 @@ ninja.data = [{
           window.location.href = "/blog/2025/Install-ROS2-Jazzy/";
         
       },
-    },{id: "post-a-post-with-table-of-contents-on-a-sidebar",
-      
-        title: "a post with table of contents on a sidebar",
-      
-      description: "an example of a blog post with table of contents on a sidebar",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/Install-ROS2-Jazzy/";
-        
-      },
     },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
