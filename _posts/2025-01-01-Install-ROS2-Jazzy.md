@@ -11,7 +11,7 @@ toc:
   sidebar: right
 ---
 
-# 1.1 Install ROS 2 Jazzy
+# Install ROS 2 Jazzy
 
 In this tutorial, we will install ROS 2 Jazzy, Gazebo Harmonic and some useful packages.&#x20;
 
