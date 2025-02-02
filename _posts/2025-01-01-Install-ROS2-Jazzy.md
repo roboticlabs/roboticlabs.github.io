@@ -22,7 +22,6 @@ You will need a computer or virtual machine running Ubuntu 24.04, and you can fo
 
 ROS2 Jazzy Jalisco is the latest Long-term support version in 2025 that works comatible with Gazebo Harmonic:
 
-
 For Gazebo simulator, there might be confusing about its version, and let's make it clear:
 
 1. Basically, the "old" versions of _gazebo_ is called _classic_ like _Gazebo 11 (Gazebo+VersionNo.)_
@@ -35,10 +34,10 @@ For Gazebo Harmonic installation, there are two ways:
 1. Install and run Gazebo Harmonic independently from ROS2.
 2. Install and run Gazebo Harmonic with ROS2. For ROS developers, I recommend this way.
 
+
 ## Install ROS2 Jazzy
 
 ### Installation procedure
-
 
 ### Set Up the Environment Variables
 
